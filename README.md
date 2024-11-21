@@ -2,7 +2,7 @@ AskMyPDF
 AskMyPDF is a web application that allows users to upload PDF documents and interact with them using natural language queries. Built using FastAPI for the backend and React.js for the frontend, this application leverages advanced NLP models for answering questions related to the uploaded PDF content.
 ---------------------
 Table of Contents
---------------------
+---------------------
 Project Overview
 Technologies Used
 Installation and Setup
